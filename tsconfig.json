@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "target": "es2022",
+        "lib": ["esnext"],
+        "module": "NodeNext",
+        "moduleResolution": "NodeNext",
+        "outDir": "dist",
+        "resolveJsonModule": true,
+        "noEmitOnError": true,
+        "skipLibCheck": true,
+        "sourceMap": true,
+        "declaration": true,
+        "strict": true
+    }
+}
